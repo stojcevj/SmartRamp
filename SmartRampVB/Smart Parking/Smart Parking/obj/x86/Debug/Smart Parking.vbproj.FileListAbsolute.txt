@@ -1,0 +1,9 @@
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\bin\Debug\Smart Parking.exe
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\bin\Debug\Smart Parking.pdb
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\bin\Debug\Smart Parking.xml
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\obj\x86\Debug\Smart Parking.vbproj.GenerateResource.Cache
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\obj\x86\Debug\Smart Parking.exe
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\obj\x86\Debug\Smart Parking.xml
+D:\Skolo proektna\VisualBasic_programa\Smart Parking\Smart Parking\obj\x86\Debug\Smart Parking.pdb
